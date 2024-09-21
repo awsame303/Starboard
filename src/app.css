@@ -17,6 +17,10 @@
     animation: fadeIn 2s;
 }
 
+footer, nav, main {
+    animation: fadeIn 3s;
+}
+
 
 @keyframes fadeIn {
     0% {

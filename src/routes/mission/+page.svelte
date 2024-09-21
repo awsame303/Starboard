@@ -1,7 +1,7 @@
 <main class="p-4 justify-center align-middle text-center">
 	<h1 class="text-7xl pb-8"><b>Our Mission</b></h1>
 	<p>Aside from aiming to participate and compete in TARC at a high level, Starboard also aims to help out the
-		community and help out with non profit and other charitable work. Below are missions that TARC has worked with
+		community and help out with non profit and other charitable work. Below are missions that Starboard has worked with
 		to help the community and the people around us.</p>
 	<div class="flex w-full justify-center gap-2 pb-3 pt-7">
 		<!-- when your adding something to carousel make sure to add it to styles too-->
