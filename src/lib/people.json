@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pranav",
+    "subteam": "Marketing",
+    "job": "Programmer",
+    "image": null
+  },
+  {
+    "name": "Ekya",
+    "subteam": "Marketing",
+    "job": "Marketing President",
+    "image": null
+  },
+  {
+    "name": "Satvik",
+    "subteam": "Marketing",
+    "job": "Fundraising",
+    "image": "/assets/images/satvik.webp"
+  },
+  {
+    "name": "Aditya",
+    "subteam": "Marketing",
+    "job": "Fundraising",
+    "image": null
+  },
+  {
+    "name": "Sarthak",
+    "subteam": "Build",
+    "job": "Build President",
+    "image": "/assets/images/sarthak.webp"
+  },
+  {
+    "name": "Vedanth",
+    "subteam": "Build",
+    "job": "Rocket Building",
+    "image": null
+  },
+  {
+    "name": "Raj",
+    "subteam": "Design",
+    "job": "Rocket Designing",
+    "image": null
+  }
+]
